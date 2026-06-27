@@ -5,7 +5,7 @@
 ###
 
 <div align="center">
-  <a href="www.linkedin.com/in/eslam-saeed-b70955317" target="_blank">
+  <a href="https://www.linkedin.com/in/eslam-saeed-b70955317" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo" />
   </a>
   <a href="mailto:islamsaeed597@gmail.com" target="_blank">
@@ -19,7 +19,7 @@
 ###
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=islamsaaedy.islamsaaedy" />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=islamsaeed597.islamsaeed597" />
 </div>
 
 ###
@@ -190,5 +190,5 @@ I'm a Full Stack Developer from Cairo, Egypt 🇪🇬<br><br>
 <h3 align="left">🔥 My Stats</h3>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=islamsaaedy&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph" />
+  <img src="https://streak-stats.demolab.com?user=islamsaeed597&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph" />
 </div>
