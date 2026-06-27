@@ -1,95 +1,86 @@
 <div align="center">
-👋 Hi, I'm Eslam Saeed
-
-Full Stack Developer | React.js & Node.js
-
-🚀 Building production-grade web apps serving 10,000+ active users
-
-
-
-📍 Cairo, Egypt  |  💼 Open to Work  |  🌍 Remote Friendly
-
+  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" />
 </div>
 
+###
 
-About Me
+<div align="center">
+  <a href="https://linkedin.com/in/islamsaaedy" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo" />
+  </a>
+  <a href="mailto:islamsaeed597@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo" />
+  </a>
+  <a href="https://wa.me/201026237058" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=WhatsApp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="whatsapp logo" />
+  </a>
+</div>
 
-Results-driven Full Stack Developer with 3+ years of hands-on experience designing and deploying production-grade web applications. I specialize in building:
+###
 
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=islamsaaedy.islamsaaedy" />
+</div>
 
-🏪 E-commerce platforms with secure payments and real-time inventory
-🎓 Academic management systems with multi-role dashboards
-🏠 Marketplace applications with AI-powered features and real-time chat
+###
 
+<h1 align="center">Hey there 👋 I'm Eslam Saeed</h1>
 
-Beyond development, I'm a Programming & AI Instructor who has trained 550+ students in web development fundamentals.
+###
 
+<h3 align="left">👩‍💻 About Me</h3>
 
+###
 
-Featured Projects
+<p align="left">
+I'm a Full Stack Developer from Cairo, Egypt 🇪🇬<br><br>
+- 🔭 I'm currently working as a Freelance Full Stack Developer building production apps serving 10,000+ users<br>
+- 🎓 B.Sc. in Artificial Intelligence — Egyptian Russian University (2024)<br>
+- 👨‍🏫 Programming & AI Instructor — trained 550+ students in web development<br>
+- 🤖 Passionate about AI integration, real-time systems, and scalable architecture<br>
+- ⚡ In my free time I explore new tech and build side projects
+</p>
 
-🎓 ATC Academy — Academic Management Platform
+###
 
+<h3 align="left">🛠 Languages and Tools</h3>
 
-Multi-tenant platform serving 5,000+ active users across multiple academy branches
+###
 
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" height="40" alt="react logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" height="40" alt="nodejs logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg" height="40" alt="express logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" height="40" alt="mysql logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" height="40" alt="mongodb logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" height="40" alt="firebase logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="40" alt="redux logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="tailwindcss logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original-wordmark.svg" height="40" alt="bootstrap logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" height="40" alt="git logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" height="40" alt="github logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" height="40" alt="python logo" />
+</div>
 
+###
 
-Tech: React.js · Node.js · Express.js · MySQL · Socket.io · JWT · Tailwind CSS · VPS
+<h3 align="left">🔥 My Stats</h3>
 
+###
 
-🔐 Role-based dashboards for 5 user types: owners, admins, teachers, accountants, students
-📅 Modules for course management, scheduling, financial tracking & attendance
-🔔 Real-time notifications via Socket.io
-⚙️ Full VPS deployment & database management
-
-
-
-🛍️ Sheshinstor — E-Commerce Platform
-
-
-Fashion & beauty e-commerce serving 2,000+ customers, employees, and admins
-
-
-
-Tech: React.js · Node.js · Express.js · MySQL · JWT · Cloudinary · Socket.io · VPS
-
-
-🔒 Secure role-based access with JWT & bcrypt authentication
-📦 Real-time inventory management
-☁️ Cloud file upload via Cloudinary
-🚀 Full production VPS deployment with performance optimization
-
-
-
-🏠 Rently — Rental Marketplace
-
-
-Feature-rich rental platform with AI assistant and identity verification
-
-
-
-Tech: React.js · Node.js · Express.js · MySQL · Socket.io · AI · JWT · Tailwind CSS · VPS
-
-
-🤖 AI-powered customer assistant
-🔐 Google OAuth + OTP verification + identity verification
-💬 Real-time chat via Socket.io
-⚡ ~40% reduction in API response time via DB indexing & server-side pagination
-
-
-
-👶 De7ket-baby — Baby Products E-Commerce
-
-
-Full-stack e-commerce with admin dashboard
-
-
-
-Tech: React.js · Node.js · Express.js · MongoDB · Cloudinary · Tailwind CSS
-
-
-💳 Payment integration
-💬 Live chat system
-☁️ Cloud-based image uploads
-📱 Fully responsive UI
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=islamsaaedy&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph" />
+</div>
