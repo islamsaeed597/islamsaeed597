@@ -121,6 +121,42 @@ I'm a Full Stack Developer from Cairo, Egypt 🇪🇬<br><br>
 
 ###
 
+<h3 align="left">📦 Libraries & Packages</h3>
+
+<div align="left">
+  <img src="https://img.shields.io/badge/Axios-5A29E4?style=flat-square&logo=axios&logoColor=white" height="30" alt="axios" />
+  <img width="8" />
+  <img src="https://img.shields.io/badge/bcrypt-338?style=flat-square&logo=npm&logoColor=white" height="30" alt="bcrypt" />
+  <img width="8" />
+  <img src="https://img.shields.io/badge/Chart.js-FF6384?style=flat-square&logo=chartdotjs&logoColor=white" height="30" alt="chartjs" />
+  <img width="8" />
+  <img src="https://img.shields.io/badge/concurrently-000000?style=flat-square&logo=npm&logoColor=white" height="30" alt="concurrently" />
+  <img width="8" />
+  <img src="https://img.shields.io/badge/CORS-FF6C37?style=flat-square&logo=npm&logoColor=white" height="30" alt="cors" />
+  <img width="8" />
+  <img src="https://img.shields.io/badge/dotenv-ECD53F?style=flat-square&logo=dotenv&logoColor=black" height="30" alt="dotenv" />
+  <img width="8" />
+  <img src="https://img.shields.io/badge/i18next-26A69A?style=flat-square&logo=i18next&logoColor=white" height="30" alt="i18next" />
+  <img width="8" />
+  <img src="https://img.shields.io/badge/jsonwebtoken-black?style=flat-square&logo=JSON%20web%20tokens&logoColor=white" height="30" alt="jsonwebtoken" />
+  <img width="8" />
+  <img src="https://img.shields.io/badge/Multer-FF6C37?style=flat-square&logo=npm&logoColor=white" height="30" alt="multer" />
+  <img width="8" />
+  <img src="https://img.shields.io/badge/QRCode-000000?style=flat-square&logo=qrcode&logoColor=white" height="30" alt="qrcode" />
+  <img width="8" />
+  <img src="https://img.shields.io/badge/react--spinners-61DAFB?style=flat-square&logo=react&logoColor=black" height="30" alt="react-spinners" />
+  <img width="8" />
+  <img src="https://img.shields.io/badge/Google_Auth-4285F4?style=flat-square&logo=google&logoColor=white" height="30" alt="google-auth" />
+  <img width="8" />
+  <img src="https://img.shields.io/badge/Nodemailer-22B573?style=flat-square&logo=gmail&logoColor=white" height="30" alt="nodemailer" />
+  <img width="8" />
+  <img src="https://img.shields.io/badge/Socket.io-black?style=flat-square&logo=socket.io&logoColor=white" height="30" alt="socket.io" />
+  <img width="8" />
+  <img src="https://img.shields.io/badge/Streamifier-FF6C37?style=flat-square&logo=npm&logoColor=white" height="30" alt="streamifier" />
+</div>
+
+###
+
 <h3 align="left">🚀 Deployment & DevOps</h3>
 
 <div align="left">
