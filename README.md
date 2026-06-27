@@ -5,7 +5,7 @@
 ###
 
 <div align="center">
-  <a href="https://linkedin.com/in/islamsaaedy" target="_blank">
+  <a href="www.linkedin.com/in/eslam-saeed-b70955317" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo" />
   </a>
   <a href="mailto:islamsaeed597@gmail.com" target="_blank">
