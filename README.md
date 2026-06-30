@@ -86,6 +86,7 @@ I'm a Full Stack Developer from Cairo, Egypt 🇪🇬<br><br>
   <img width="12" />
   <img src="https://img.shields.io/badge/Socket.io-black?style=flat-square&logo=socket.io&logoColor=white" height="30" alt="socketio" />
   <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sequelize/sequelize-original.svg" height="40" alt="sequelize" /
   <img src="https://img.shields.io/badge/JWT-black?style=flat-square&logo=JSON%20web%20tokens&logoColor=white" height="30" alt="jwt" />
   <img width="12" />
   <img src="https://img.shields.io/badge/REST_API-FF6C37?style=flat-square&logo=postman&logoColor=white" height="30" alt="rest api" />
